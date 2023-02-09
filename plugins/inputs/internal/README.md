@@ -60,7 +60,7 @@ that are of the same input type. They are tagged with `input=<plugin_name>`
   - metrics_gathered
 
 internal_write stats collect aggregate stats on all output plugins
-that are of the same input type. They are tagged with `output=<plugin_name>`
+that are of the same output type. They are tagged with `output=<plugin_name>`
 and `version=<telegraf_version>`.
 
 - internal_write
